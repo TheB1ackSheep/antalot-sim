@@ -1,0 +1,25 @@
+{
+  "name": "antalot-sim",
+  "version": "1.0.0",
+  "description": "antalot test client used to connect to antalot broker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheB1ackSheep/antalot-sim.git"
+  },
+  "author": "Falook Glico",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheB1ackSheep/antalot-sim/issues"
+  },
+  "homepage": "https://github.com/TheB1ackSheep/antalot-sim#readme",
+  "dependencies": {
+    "cli-color": "^1.1.0",
+    "clui": "^0.3.1",
+    "mqtt": "^1.8.0",
+    "winston": "^2.2.0"
+  }
+}
